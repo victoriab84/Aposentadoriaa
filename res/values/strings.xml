@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Calculo Aposentadoria</string>
+
+    <!-- Textos da tela -->
+    <string name="label_idade">Informe sua idade</string>
+    <string name="hint_idade">Digite sua idade</string>
+
+    <string name="label_genero">Informe seu gênero</string>
+    <string name="genero_masculino">Masculino</string>
+    <string name="genero_feminino">Feminino</string>
+    <string name="genero_selecione">Selecione o gênero</string>
+
+    <string name="botao_calcular">Calcular</string>
+    <string name="texto_resultado_inicial">Resultado aparecerá aqui</string>
+
+    <string name="mensagem_ja_aposentado">Você já deveria estar aposentado.</string>
+    <string name="mensagem_tempo_restante">Faltam %1$d ano(s) para sua aposentadoria.</string>
+
+    <!-- TextView com seu nome -->
+    <string name="meu_nome">Seu Nome Aqui</string>
+</resources>
